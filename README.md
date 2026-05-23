@@ -36,8 +36,11 @@ Users can also save generated passwords into a file.
 
 Password-Generator/
 │
+
 ├── main.py
+
 ├── README.md
+
 └── passwords.txt
 
 
