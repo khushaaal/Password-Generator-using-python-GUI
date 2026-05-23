@@ -96,8 +96,8 @@ passwords.txt
 ---
 
 # 📸 Screenshot
+<img width="1600" height="860" alt="project2" src="https://github.com/user-attachments/assets/8d9dc68a-7b9b-4b85-a952-5d91cba4b1a3" />
 
-![alt text](project2.PNG)
 
 ---
 
